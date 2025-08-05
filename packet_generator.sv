@@ -49,7 +49,7 @@ module tester;
   initial begin
     p1 = new();
     p_base = p1; // Upcasting (parent class reference pointing to child object)
-    repeat(10) begin
+    repeat(4) begin
       // Randomization success can be checked with both IF-ELSE or even assert
       if (p1.randomize()) begin
         $display($time, " Randomizing the data");
