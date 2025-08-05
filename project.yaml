@@ -1,0 +1,14 @@
+project_name: sv-packet-generator
+description: >
+  A SystemVerilog project demonstrating packet class implementation,
+  randomization, OOP inheritance, and object copying using custom methods.
+language: SystemVerilog
+author: Bhargav Naik
+files:
+  - packet_generator.sv
+  - README.md
+tags:
+  - systemverilog
+  - oop
+  - randomization
+  - verification
