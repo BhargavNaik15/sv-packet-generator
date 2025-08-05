@@ -53,6 +53,19 @@ You can run this on any SystemVerilog-compatible simulator such as:
 ---
 
 ## 🧪 Sample Output (Simulation)
-** Considering only a single repeatition and also no constraints are applied for the randomization.
-Child class values, src = 3, dest = 11, data = 89
-Parent class values, src = 3, dest = 11, data = 89
+0 Randomizing the data
+0 Child class values: src = 9, dest = 12, data = 167
+0 After copying!!
+0 Child class values: src = 9, dest = 12, data = 167
+0 Randomizing the data
+0 Child class values: src = 11, dest = 0, data = 138
+0 After copying!!
+0 Child class values: src = 11, dest = 0, data = 138
+0 Randomizing the data
+0 Child class values: src = 10, dest = 6, data = 51
+0 After copying!!
+0 Child class values: src = 10, dest = 6, data = 51
+0 Randomizing the data
+0 Child class values: src = 7, dest = 2, data = 89
+0 After copying!!
+0 Child class values: src = 7, dest = 2, data = 89
